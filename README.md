@@ -14,3 +14,5 @@ Welcome to Taskify! A project that is an all-in-one task management web applicat
 Create an account, or utilize the following credentials to login:
 email: admin@hw3.com	password: password
 
+Local Dev frontend will be on http://localhost:5173/, with backend on http://localhost:8000/
+
